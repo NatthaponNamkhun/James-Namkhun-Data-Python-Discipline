@@ -21,3 +21,6 @@ print("Maximum value in numbers list: ", max(numbers))
 
 # find min value in numbers list
 print("Minimum value in numbers list: ", min(numbers))
+
+# find sum of number in list
+print("Sum of number: ", sum(numbers))
